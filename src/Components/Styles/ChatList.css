@@ -1,0 +1,8 @@
+.chat-container {
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.chat-container::-webkit-scrollbar {
+  display: none;
+}
